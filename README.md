@@ -232,6 +232,5 @@ SOFTWARE.
 
 ---
 
-**Support & Contact**  
-📧 Help: [Instagram @spacey6849](https://instagram.com/spacey6849)  
-🐛 Issues: [GitHub Issues](https://github.com/Spacey6849/smart-fingerprint-attendance-system/issues)
+## Credits
+This project was developed collaboratively with Moses Rodrigues (@Spacey6849).
